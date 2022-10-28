@@ -1,0 +1,39 @@
+import photo1 from '../assets/img/backstage/jpeg/DSC0603.jpg'
+import photo2 from '../assets/img/backstage/jpeg/DSC0868.jpg'
+import photo3 from '../assets/img/backstage/jpeg/DSC0877.jpg'
+import photo4 from '../assets/img/backstage/jpeg/DSC0566-—-копия.jpg'
+import photo5 from '../assets/img/backstage/jpeg/_DSC0121.jpg'
+import photo6 from '../assets/img/backstage/jpeg/_DSC0138.jpg'
+import photo7 from '../assets/img/backstage/jpeg/_DSC0140.jpg'
+import photo8 from '../assets/img/backstage/jpeg/_DSC0160.jpg'
+import photo9 from '../assets/img/backstage/jpeg/_DSC0230.jpg'
+import photo10 from '../assets/img/backstage/jpeg/_DSC0254.jpg'
+import photo11 from '../assets/img/backstage/jpeg/_DSC0255.jpg'
+import photo12 from '../assets/img/backstage/jpeg/_DSC0289.jpg'
+import photo13 from '../assets/img/backstage/jpeg/_DSC0310.jpg'
+import photo14 from '../assets/img/backstage/jpeg/_DSC0312.jpg'
+import photo15 from '../assets/img/backstage/jpeg/_DSC0329.jpg'
+import photo16 from '../assets/img/backstage/jpeg/_DSC0335.jpg'
+import photo17 from '../assets/img/backstage/jpeg/_DSC0465.jpg'
+import photo18 from '../assets/img/backstage/jpeg/_DSC0490.jpg'
+
+export const BACKSTAGE_PHOTOS = [
+	{name: 'photo1', url: photo1},
+	{name: 'photo2', url: photo2},
+	{name: 'photo3', url: photo3},
+	{name: 'photo4', url: photo4},
+	{name: 'photo5', url: photo5},
+	{name: 'photo6', url: photo6},
+	{name: 'photo7', url: photo7},
+	{name: 'photo8', url: photo8},
+	{name: 'photo9', url: photo9},
+	{name: 'photo10', url: photo10},
+	{name: 'photo11', url: photo11},
+	{name: 'photo12', url: photo12},
+	{name: 'photo13', url: photo13},
+	{name: 'photo14', url: photo14},
+	{name: 'photo15', url: photo15},
+	{name: 'photo16', url: photo16},
+	{name: 'photo17', url: photo17},
+	{name: 'photo18', url: photo18},
+]
